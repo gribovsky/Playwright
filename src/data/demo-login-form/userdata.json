@@ -1,0 +1,23 @@
+[
+  {
+    "credentials": {
+      "username": "Andrei12345678 !@#S",
+      "password": "Andrei12345678 !@#S"
+    },
+    "successMessage": "Successfully registered! Please, click Back to return on login page",
+    "title": "Register with  smoke creentials"
+  },
+  {
+    "credentials": { "username": "Emy", "password": "123456Aa" },
+    "successMessage": "Successfully registered! Please, click Back to return on login page",
+    "title": "Register with min valid creentials"
+  },
+  {
+    "credentials": {
+      "username": "Andrei12345678 !@#S aaaaaaaaaaaaaaaaaaaaa",
+      "password": "123456Aaaaaaaaaaaaaa"
+    },
+    "successMessage": "message",
+    "title": "Successfully registered! Please, click Back to return on login page"
+  }
+]
